@@ -3,7 +3,7 @@ name = "SigmaOS-langchain"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "langchain component"
+description = "LangChain AI framework compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
